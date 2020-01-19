@@ -1,0 +1,4 @@
+mkdir -  create a directory
+cd - create a directory
+ls - to view the files
+ls -l - to view the files in log format
